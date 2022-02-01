@@ -32,7 +32,7 @@ type prefixBuild struct {
 }
 
 const (
-	metadataURL  = "https://raw.githubusercontent.com/googlei18n/libphonenumber/master/resources/PhoneNumberMetadata.xml"
+	metadataURL  = "https://raw.githubusercontent.com/google/libphonenumber/589187e629244bba9c936b0f3706f30c29956c68/resources/PhoneNumberMetadata.xml"
 	metadataPath = "metadata_bin.go"
 
 	tzURL  = "https://raw.githubusercontent.com/googlei18n/libphonenumber/master/resources/timezones/map_data.txt"
